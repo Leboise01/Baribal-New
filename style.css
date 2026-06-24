@@ -49,7 +49,8 @@ h1, h2, h3, h4 {
   background: var(--gradient-ember);
   -webkit-background-clip: text;
   background-clip: text;
-  color: transparent;
+  color: #ffb74c;
+  font-size: 50px;
 }
 
 .bg-gradient-ember { background: var(--gradient-ember); }
