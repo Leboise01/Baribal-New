@@ -331,6 +331,8 @@ main {
   animation: ember-pulse 3s ease-in-out infinite;
 }
 
+
+
 .hero h1 {
   font-size: clamp(2.5rem, 8vw, 5rem);
   line-height: 0.95;
